@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://deeghe.planetbonniedesigns.com/sitemap.xml
